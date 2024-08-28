@@ -1,6 +1,6 @@
 ## Privacy Policy
-Rawad Bin Siddeq built the ذكرنا app  
-"Thikrna" app takes your privacy seriously. To ensure your privacy is protected, we provide this privacy policy notice to explain how your personal information is collected and used.
+Rawad Bin Siddeq built The "ذكرنا" app 
+The "ذكرنا" app takes your privacy seriously. To ensure your privacy is protected, we provide this privacy policy notice to explain how your personal information is collected and used.
 
 ## Collection of Information
 The "ذكرنا" app does not track or collect any personal information about users. The app does not gather any data such as IP addresses, device details, or any other information that could identify users. Your use of the app remains anonymous, and no personal data is stored or shared.
