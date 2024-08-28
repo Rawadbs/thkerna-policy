@@ -1,19 +1,20 @@
 Privacy Policy
-"Thikrna" app takes your privacy seriously. To better protect your privacy, we provide this privacy policy notice explaining how your personal information is collected and used.
+Rawad Bin Siddeq built the Thikrna app 
+"Thikrna" app takes your privacy seriously. To ensure your privacy is protected, we provide this privacy policy notice to explain how your personal information is collected and used.
 
-Collection of Routine Information
-"Thikrna" app does not track or collect any personal information about users. The app does not gather any data such as IP addresses, device details, or any other information that could identify users.
+Collection of Information
+"Thikrna" app does not track or collect any personal information about users. The app does not gather any data such as IP addresses, device details, or any other information that could identify users. Your use of the app remains anonymous, and no personal data is stored or shared.
 
 Cookies
-"Thikrna" app does not use cookies to store any information about users or to personalize their experience.
+"Thikrna" app does not use cookies or any similar tracking technologies to store information about users or personalize their experience.
 
 Security
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+The security of your personal information is important to us. However, please remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect any personal information, we cannot guarantee its absolute security.
 
 Changes to This Privacy Policy
-This policy is effective as of [8/20/2024] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+This policy is effective as of [08/20/2024] and will remain in effect except with respect to any changes in its provisions in the future, which will become effective immediately after being posted on this page.
 
-We reserve the right to update or change this Privacy Policy at any time, and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on the "Thikrna" app.
+We reserve the right to update or change this Privacy Policy at any time, and you are encouraged to review this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided to us or by placing a prominent notice on the "Thikrna" app.
 
 Contact Information
-For any questions or concerns regarding the privacy policy, please send an email to [developerrawad@gmail.com].
+If you have any questions or concerns regarding this Privacy Policy, please feel free to contact us at [developerrawad@gmail.com].
